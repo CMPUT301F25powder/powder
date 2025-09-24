@@ -3,5 +3,6 @@ package com.example.powder;
 public class Shape {
     private int x;
     private int y;
-    String colour = "purple";
+    String colour1 = "purple";
+    String color = "maroon";
 }
